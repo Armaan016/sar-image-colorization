@@ -87,7 +87,7 @@ Below are examples of SAR image inputs, their corresponding ground truth RGB ima
 
 ---
 
-### Acknowledgments
+## Acknowledgments
 We thank the open-source community for providing:
 
 1. TensorFlow for model building.
