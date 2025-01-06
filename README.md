@@ -10,7 +10,8 @@
 5. [Results](#results)
     - [Performance Metrics](#performance-metrics)
     - [Sample Outputs](#sample-outputs)
-6. [Collaborators](#collaborators)
+6. [Acknowledgements](#acknowledgements)
+7. [Collaborators](#collaborators)
 
 ---
 
